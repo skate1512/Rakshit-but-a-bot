@@ -1,2 +1,2 @@
-# Rakshit-but-a-bot
-A telegram bot for reddit post notifications
+# Rakshit But A Bot
+Reddit-bot18 but now on telegram
